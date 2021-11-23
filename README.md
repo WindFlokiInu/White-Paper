@@ -1,6 +1,6 @@
 # White-Paper
 White Paper for Wind Floki Inu -
-WFLO is a Philanthropic Meme Token Created to Promote Safe DeFi Adoption & Provide a Decentralized Educational Ecosystem with Unique Metaverse Integrations
+WFLO is a Philanthropic Meme Token Created to Promote Safe DeFi Adoption & Provide a Decentralized Educational Ecosystem with Unique Metaverse Integrations.
 
 Metaverse Integration -
 With the advent of virtual reality and the inevitability of it’s fusion with blockchain, WFLO aims to establish a presence on multiple Metaverse platforms for #WindNation’s philosophy to not only thrive in a decentralized environment but also to help shape and define the future of DeFi.
